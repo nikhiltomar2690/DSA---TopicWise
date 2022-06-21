@@ -33,7 +33,7 @@ for(int i=0;i<len;i++){
     x^=arr[i];
 }
 
-int count = x&(~(x-1));
+int count = x&(~(x-1)); 
 
 for(int i=0;i<len;i++){
     int mask = 1<<count;

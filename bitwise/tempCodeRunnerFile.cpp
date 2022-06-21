@@ -1,0 +1,1 @@
+cout<<"There are "<<s<<" subsets possible\n";
